@@ -1,0 +1,7 @@
+dt=0.1
+g=1
+U=0
+tmin=0
+tmax=50*8*pi
+g(t/2,0) with dt_g=2dt
+damping factor Omega=0.01
